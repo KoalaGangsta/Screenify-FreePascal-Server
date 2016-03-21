@@ -1,3 +1,3 @@
 # Screenify Server
 #### FreePascal Version
-##### HTTP & TCP
+##### HTTP & TCP Servers
